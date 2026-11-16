@@ -38,4 +38,5 @@ To explore healthcare data and identify meaningful patterns in patient distribut
 
 ## 📸 Dashboard Preview
 
+Show what the dashboard looks like. - ![Alt text]()
 **Example:** [View Dashboard Screenshot](https://github.com/Arsheana-Chowdhury/Healthcare-Analytics/blob/main/Dashboard%20Preview.png)
